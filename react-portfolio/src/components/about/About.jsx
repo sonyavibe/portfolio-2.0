@@ -13,7 +13,7 @@ const About = () => {
         <img src={AboutImg} alt="" className="about__img" />
         <div className="about__data">
           <Info />
-          <p className="about__description">Frontend developer, I create web pages with UI/UX user interface, and I also haven't finished coming up with text for this section</p>
+          <p className="about__description">My name is Sophie, I'm a creative frontend developer with a previous experience in UX-research and communications. I like taking on challenging projects and making creative and non-conventional solutions to them. Hit the button below to look at my CV ( ˘▽˘)っ♨</p>
           <a download="" href={CV} className="button button--flex">Download CV
           <svg
                 class="button__icon"

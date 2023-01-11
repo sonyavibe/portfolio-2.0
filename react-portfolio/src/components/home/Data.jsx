@@ -58,7 +58,7 @@ const Data = () => {
         Frontend Developer
       </h3>
       <p className="home__description">
-        I'm a creative developer based in Russia, and I yet haven't figured out what to put here hehe
+        I'm a creative developer looking for exciting projects and inspiring team to work with!
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello! 
