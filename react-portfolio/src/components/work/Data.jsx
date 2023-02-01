@@ -18,14 +18,14 @@ export const projectsData = [
     image: Work2,
     title: 'Color Generator App',
     category: 'app',
-    link: 'https://github.com/sonyavibe/pet-project-COLOR-GENERATOR',
+    link: 'https://github.com/sonyavibe/COLOR-GENERATOR',
   },
   {
     id: 3,
     image: Work3,
     title: 'Journaling Prompts App',
     category: 'app',
-    link: 'https://github.com/sonyavibe/journaling-prompts-app-pet-project',
+    link: 'https://github.com/sonyavibe/journaling-prompts-app',
   },
   {
     id: 4,
